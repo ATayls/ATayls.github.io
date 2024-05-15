@@ -1,6 +1,6 @@
 # About Me
 
-Welcome to my professional page! I am a seasoned data professional with over 6 years of experience addressing complex data science and engineering challenges across academia, industry, and the NHS. My career is dedicated to developing data, analytical, and machine learning pipelines that solve real-world health data problems. I am currently interested in the Data Engineer role at UKHSA, where I believe I can make a significant contribution.
+Welcome to my professional page! I am a seasoned data professional with over 6 years of experience addressing complex data science and engineering challenges across academia, industry, and the NHS. My career is dedicated to developing data, analytical, and machine learning pipelines that solve real-world health data problems.
 
 ## Experience
 
