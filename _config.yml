@@ -1,0 +1,7 @@
+title: Your Site Title
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write your awesome description for your site here, and it will appear in the window title
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ATayls
