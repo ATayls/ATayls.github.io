@@ -63,12 +63,5 @@ At Airbus, I tackled complex unstructured satellite data, developing data-orient
 - Effective communicator of complex ideas to diverse audiences, including academics, clinical staff, and external stakeholders.
 - Use of data flow diagrams and ML interpretability methods to make analytical results understandable and actionable for clinicians.
 
-## Contact Me
-
-Feel free to connect with me through the following platforms:
-
-- **LinkedIn:** [Insert LinkedIn URL]
-- **Email:** [Insert Email Address]
-- **Twitter:** [Insert Twitter Handle]
 
 Thank you for visiting my page!
