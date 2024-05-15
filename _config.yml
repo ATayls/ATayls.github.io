@@ -1,8 +1,14 @@
-title: Your Site Title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write your awesome description for your site here, and it will appear in the window title
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# Site settings
+title: Adam Taylor - Senior Data Scientist
+
+description: >-
+  Welcome to my professional site! I am a seasoned data professional with extensive experience in data science and engineering, specializing in health data analytics and machine learning pipelines. This site showcases my portfolio, including significant projects in academia, industry, and the NHS, reflecting my expertise and contributions to the field.
+baseurl: "" # the subpath of your site, e.g., /blog
+url: "http://ATayls.github.io" # the base hostname & protocol for your site
 github_username:  ATayls
-theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
